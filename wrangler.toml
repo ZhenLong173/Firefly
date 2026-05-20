@@ -1,5 +1,5 @@
 # 项目名称，改成你喜欢的名字
-name = "firefly-blog"
+name = "firefly"
 # 兼容日期，按日志提示设置
 compatibility_date = "2026-05-20"
 # 开启 Node.js 兼容模式
